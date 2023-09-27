@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-ヒデヨシ | Yoshi
-:books:  Developer / Student
-:video_game:  Strategy / FPS / RPG
-:clapper:  Anime / SCI-FI
-:notes:  J-Pop
+- ヒデヨシ | Yoshi
+- :books:  Developer / Student
+- :video_game:  Strategy / FPS / RPG
+- :clapper:  Anime / SCI-FI
+- :notes:  J-Pop
 
 Here are some ideas to get you started:
 
